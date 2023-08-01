@@ -7,7 +7,7 @@ Based on original source of LevelDB <https://github.com/google/leveldb>
 ### Dependencies
 
 - cmake
-- DMDK - https://github.com/pmem/pmdk
+- PMDK - https://github.com/pmem/pmdk
 - ndctl - https://github.com/pmem/ndctl
 
 ### Installation
